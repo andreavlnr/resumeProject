@@ -1,0 +1,46 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    width: 1200 px;
+    height: 1319 px;
+}
+
+p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+h4{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+li {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.work-experience .subtitle{
+    color: #FB6D3A;
+}
+
+.sidebar {
+    width: 370px;
+    height: 1319px;
+    left: 40px;
+    top: 40px;
+}
+
+.main-content {
+    width: calc(100% - 370px);
+}
